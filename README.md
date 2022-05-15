@@ -10,9 +10,9 @@ Formatters that take care of all your code.
 + [black](https://github.com/python/black): uncompromising Python code formatter.
 + [prettier](https://github.com/prettier/prettier): opinionated code formatter, not only for Python.
 + [yapf](https://github.com/google/yapf): yet another Python code formatter from Google.
++ [blue](https://github.com/grantjenks/blue): The slightly less uncompromising Python code formatter.
 
 ## UNIX-way formatters
-
 Formatters that do only one job and do it well.
 
 + [add-trailing-comma](https://github.com/asottile/add-trailing-comma): adds trailing commas to calls and literals.
